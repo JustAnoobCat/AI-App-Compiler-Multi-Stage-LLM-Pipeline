@@ -137,7 +137,7 @@ The Stage 3 system prompt enforces that API endpoint fields must match DB column
 
 **1. Clone the repo**
 ```bash
-git clone https://github.com/JustAnoobCat/Multi-Stage-App-Generation-System
+git clone https://github.com/JustAnoobCat/AI-App-Compiler-Multi-Stage-LLM-Pipeline
 ```
 
 **2. Create and activate virtual environment**
